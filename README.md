@@ -3,7 +3,7 @@
 ### Education
 VŠFS Applied Informatics
 ### Work experience
-AI Date engineer @ Bootiq 2024-2025
+AI Data engineer @ Bootiq 2024-2025
 ### Projects
 | Project name |Area of focus|Description | Tech stack | 
 |:---------------------- |:-----------------|:---------------------- | :---------------------- |
