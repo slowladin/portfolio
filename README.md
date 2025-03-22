@@ -1,5 +1,5 @@
-# portfolio
-# Data Scientist CV
+# Portfolio
+# Data Scientist
 ### Education
 VŠFS Applied Informatics
 ### Work experience
